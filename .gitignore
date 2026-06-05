@@ -14,3 +14,6 @@ temp/
 coverage/
 
 *.log
+
+.env
+.env.local
