@@ -1,0 +1,17 @@
+{
+  "name": "notification-fetcher",
+  "version": "1.0.0",
+  "description": "Campus notification fetcher with advanced sorting algorithm",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "fetch": "node index.js"
+  },
+  "keywords": ["notifications", "fetcher", "api"],
+  "author": "Samarpan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
